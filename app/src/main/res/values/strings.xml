@@ -1,0 +1,38 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Inventory Management</string>
+
+    <string name="title_add_product">Add Product</string>
+    <string name="title_edit_product">Edit Product</string>
+
+    <string name="text_add">Add</string>
+    <string name="text_logout">Logout</string>
+    <string name="text_save">Save</string>
+    <string name="text_refresh">Refresh</string>
+
+    <string name="text_edit">Edit</string>
+    <string name="text_delete">Delete</string>
+
+    <string name="message_delete">Are you sure you want to delete this product?</string>
+    <string name="text_cancel">Cancel</string>
+
+    <string name="empty_username">Username cannot be empty</string>
+    <string name="empty_password">Password cannot be empty</string>
+    <string name="empty_name">Name cannot be empty</string>
+    <string name="empty_category">Category cannot be empty</string>
+    <string name="empty_quantity">Quantity cannot be empty</string>
+    <string name="empty_price">Price cannot be empty</string>
+    <string name="less_than_zero_quantity">Quantity cannot be less than or equal to 0</string>
+    <string name="less_than_zero_category">Category cannot be less than or equal to 0</string>
+
+    <string name="no_credentials">Credentials does not exist</string>
+    <string name="product_added">Product added successfully</string>
+    <string name="product_edited">Product edited successfully</string>
+
+    <string name="product_id">Product Id: <xliff:g example="0" id="id">%s</xliff:g></string>
+    <string name="product_name">Product Name: <xliff:g example="name" id="name">%s</xliff:g></string>
+    <string name="category">Category: <xliff:g example="category" id="category">%s</xliff:g></string>
+    <string name="quantity">Quantity: <xliff:g example="0" id="quantity">%s</xliff:g></string>
+    <string name="price">Price: $<xliff:g example="0" id="price">%s</xliff:g></string>
+
+    <string name="error">Error getting data <xliff:g example="error" id="error">%s</xliff:g></string>
+</resources>

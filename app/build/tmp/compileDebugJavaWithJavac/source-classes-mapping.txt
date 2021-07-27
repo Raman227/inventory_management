@@ -1,0 +1,26 @@
+com/inventory/listener/ItemClick.java
+ com.inventory.listener.ItemClick
+com/inventory/activities/LoginActivity.java
+ com.inventory.activities.LoginActivity
+com/inventory/BuildConfig.java
+ com.inventory.BuildConfig
+com/inventory/activities/MainActivity.java
+ com.inventory.activities.MainActivity
+ com.inventory.activities.MainActivity$1
+ com.inventory.activities.MainActivity$2
+com/inventory/activities/SplashActivity.java
+ com.inventory.activities.SplashActivity
+com/inventory/constants/Constants.java
+ com.inventory.constants.Constants
+com/inventory/activities/AddProductActivity.java
+ com.inventory.activities.AddProductActivity
+ com.inventory.activities.AddProductActivity$1
+com/inventory/model/ProductsModel.java
+ com.inventory.model.ProductsModel
+com/inventory/viewholder/ProductsViewHolder.java
+ com.inventory.viewholder.ProductsViewHolder
+com/inventory/adapters/ProductsAdapter.java
+ com.inventory.adapters.ProductsAdapter
+ com.inventory.adapters.ProductsAdapter$1
+com/inventory/utils/GenerateRandomString.java
+ com.inventory.utils.GenerateRandomString
